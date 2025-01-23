@@ -6,4 +6,6 @@ dist
 node_modules
 dist/
 
+x.zip
+ctp.txt
 .idea
